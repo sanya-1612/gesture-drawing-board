@@ -61,58 +61,49 @@ The interaction is smooth, responsive, and completely touch-free.
 
 ## 📦 Installation
 
+
 ### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/gesture-drawing-board.git
 cd gesture-drawing-board
+Replace yourusername with your actual GitHub username.
+
 2️⃣ Install Dependencies
 pip install opencv-python mediapipe numpy
+
 ▶️ Run the Project
 python gesture_draw.py
-Press q to exit.
+Press q to exit the application.
 
 🎯 Why This Project Matters
+
 This project demonstrates practical implementation of:
-
 Human-Computer Interaction (HCI)
-
 Vision-based UI systems
-
 Real-time input automation
-
 Touchless interface design
-
 It showcases how computer vision can replace traditional input devices in interactive systems.
 
 🔮 Future Improvements
+
 Thickness selector gesture
-
 Save drawing functionality
-
 Gesture-based undo/redo
-
 AI-based shape smoothing
-
 Multi-hand support
-
 Smart classroom integration
 
 📌 Use Cases
+
 Smart classrooms
-
 Interactive presentations
-
 Touchless public systems
-
 Accessibility tools
-
 Creative AI interfaces
 
 👩‍💻 Author
 Sanya Singh Rathore
 B.Tech CSE (AI & ML)
-
 Exploring Computer Vision, AI Interaction Systems, and Intelligent Interfaces.
-
 ⭐ If you like this project, consider giving it a star!
